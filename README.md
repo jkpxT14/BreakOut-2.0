@@ -1,1 +1,1 @@
-# BreakOut-2.0
+# 2022 SHS VPython Project <BreakOut 2.0> - 10106 Jungwoo Kim
